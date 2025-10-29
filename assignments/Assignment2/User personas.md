@@ -1,3 +1,8 @@
+**From the prompt:** 
+
+I am making a habit tracker web app with the added functionality of correlating users routines with mood, 
+stress level, confidence, and other emotions or achievements. Can you generate three extended user personas that would be interested in using my app?
+
 [https://chatgpt.com/share/68fe5776-8178-800d-a446-274695016a19](https://chatgpt.com/share/68fe5776-8178-800d-a446-274695016a19)
 
 # User Personas
